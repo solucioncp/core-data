@@ -1,0 +1,15 @@
+{
+  "tipo": "Tipo",
+  "conteoCFDI": "Conteo de CFDIs",
+  "retencionIVA": "Retención IVA",
+  "retencionIEPS": "Retención IEPS",
+  "retencionISR": "Retención ISR",
+  "trasladoIVA": "Traslado IVA",
+  "trasladoIEPS": "Traslado IEPS",
+  "trasladoISR": "Traslado ISR",
+  "impuestoLocal": "Total de retenciones",
+  "subtotal": "Subtotal",
+  "descuento": "Descuento",
+  "neto": "Neto",
+  "total": "Total"
+}

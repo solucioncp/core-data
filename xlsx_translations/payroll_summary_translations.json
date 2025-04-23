@@ -1,0 +1,19 @@
+{
+  "tipo": "Type",
+  "conteoCFDI": "Qty",
+  "EmpleadosQty": "Número de empleados",
+  "TotalPercepciones": "Percepciones",
+  "TotalDeducciones": "Deducciones",
+  "TotalOtrosPagos": "Otros pagos",
+  "PercepcionesTotalSueldos": "Sueldo",
+  "OtrasPercepciones": "Otras percepciones",
+  "PercepcionesSeparacionIndemnizacion": "Separación-Indemnización",
+  "PercepcionesJubilacionPensionRetiro": "Jubilación-Pensión",
+  "PercepcionesTotalGravado": "Gravado",
+  "PercepcionesTotalExento": "Exento",
+  "DeduccionesTotalImpuestosRetenidos": "ISR retenido",
+  "DeduccionesTotalImpuestosRetenidos": "Ajuste ISR retenido",
+  "DeduccionesTotalOtrasDeducciones": "Otras deducciones",
+  "SubsidioCausado": "Subsidio causado",
+  "NetoAPagar": "Neto a pagar"
+}
