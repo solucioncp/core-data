@@ -1,0 +1,17 @@
+{
+  "tipo": "Tipo",
+  "count": "Conteo de CFDIs",
+  "PaymentRelatedCount": "# Relacionados",
+  "BaseIVA16": "Base IVA 16%",
+  "IVATrasladado16": "IVA 16%",
+  "BaseIVA8": "Base IVA 8%",
+  "IVATrasladado8": "IVA 8%",
+  "BaseIVA0": "Base IVA 0%",
+  "BaseIVAExento": "Base IVA Exento",
+  "TrasladosIVA": "Traslado IVA",
+  "RetencionesIVA": "Retenciones IVA",
+  "RetencionesISR": "Retenciones ISR",
+  "RetencionesIEPS": "Retenciones IEPS",
+  "Total": "Total",
+  "total_docto_relacionados": "Total pagos relacionados"
+}
