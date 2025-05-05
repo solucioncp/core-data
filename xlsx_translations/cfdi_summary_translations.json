@@ -1,15 +1,15 @@
 {
   "tipo": "Tipo",
-  "conteoCFDI": "Conteo de CFDIs",
-  "retencionIVA": "Retención IVA",
-  "retencionIEPS": "Retención IEPS",
-  "retencionISR": "Retención ISR",
-  "trasladoIVA": "Traslado IVA",
-  "trasladoIEPS": "Traslado IEPS",
-  "trasladoISR": "Traslado ISR",
+  "quantity": "Conteo de CFDIs",
+  "retencion_iva": "Retención IVA",
+  "retencion_ieps": "Retención IEPS",
+  "retencion_isr": "Retención ISR",
+  "traslados_iva": "Traslado IVA",
+  "traslados_ieps": "Traslado IEPS",
+  "traslados_isr": "Traslado ISR",
   "impuestoLocal": "Total de retenciones",
-  "subtotal": "Subtotal",
-  "descuento": "Descuento",
+  "SubTotal": "Subtotal",
+  "Descuento": "Descuento",
   "neto": "Neto",
-  "total": "Total"
+  "Total": "Total"
 }

@@ -32,17 +32,17 @@
   "CfdiRelacionados.CfdiRelacionado.UUID": "UUID relacionado",
   "Version": "Versión",
 
-  "RetencionesIEPS": "Retención IEPS",
-  "RetencionesISR": "Retención ISR",
-  "RetencionesIVA": "Retención IVA",
+  "retenciones_ieps": "Retención IEPS",
+  "retenciones_isr": "Retención ISR",
+  "retenciones_iva": "Retención IVA",
 
-  "TrasladosIEPS": "Traslado IEPS",
-  "TrasladosISR": "Traslado ISR",
-  "TrasladosIVA": "Traslado IVA",
+  "traslados_ieps": "Traslado IEPS",
+  "traslados_isr": "Traslado ISR",
+  "traslados_iva": "Traslado IVA",
 
-  "FechaCertificacionSatMonth": "Mes timbrado",
-  "FechaCertificacionSatYear": "Año timbrado",
-  "FechaMonth": "Mes comprobante",
-  "FechaYear": "Año comprobante",
-  "Neto": "Neto"
+  "fecha_certificacion_sat_month": "Mes timbrado",
+  "fecha_certificacion_sat_year": "Año timbrado",
+  "fecha_month": "Mes comprobante",
+  "fecha_year": "Año comprobante",
+  "neto": "Neto"
 }
